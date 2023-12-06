@@ -12,17 +12,21 @@ Navigation between different routes
 Each route corresponds to a different component/page
 
 
-Installation:s
+Installation:
 Clone the repository or download the ZIP file.
 Navigate to the project directory in your terminal.
 Run npm install to install the necessary dependencies.
-Run npm start to start the development server.
+Run npm run dev to start the development server.
 Open your browser and visit http://localhost:3000 to view the app.
-Usage
+
+
+Usage:
 The app demonstrates routing between different pages.
 Click on different navigation links to view various components rendered at different routes.
 Explore how React Router handles navigation without full page reloads.
-Technologies Used
+
+
+Technologies Used:
 React
 React Router
 Folder Structure
@@ -30,5 +34,5 @@ Folder Structure
 /components: Includes different components corresponding to different routes/pages.
 App.js: Main application component containing the router setup.
 index.js: Entry point of the React application.
-Contributing
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
+
