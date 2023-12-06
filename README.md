@@ -29,7 +29,8 @@ Explore how React Router handles navigation without full page reloads.
 Technologies Used:
 React
 React Router
-Folder Structure
+
+Folder Structure:
 /src: Contains the main source code for the React application.
 /components: Includes different components corresponding to different routes/pages.
 App.js: Main application component containing the router setup.
